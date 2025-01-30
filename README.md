@@ -19,8 +19,8 @@ Mi nombre es Rodolfo Javier Cruz Olivares y este es mi repositorio inicial.
 1. Primero
 2. Segundo
 3. Tercero
-  1. Tercero primero
-  2. Tercero segundo
+    1. Tercero primero
+    2. Tercero segundo
 
 - Primero
 - Segundo
