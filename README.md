@@ -1,2 +1,1 @@
-# c-digo
 Repositorio inicial
