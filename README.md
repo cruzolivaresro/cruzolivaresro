@@ -41,4 +41,3 @@ At the command prompt, type <code>nano</code>.
 ___
   
 Generalmente utilizo [Google](www.google.com "para utilizar mis busquedas")
-¿Cómo funciona esto? [`code`](#nano).
